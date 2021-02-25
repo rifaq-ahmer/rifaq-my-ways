@@ -1,12 +1,20 @@
-#all-li li{
-  margin-left: 30px;
+* {
+	font-family: "Open Sans";
+	font-weight: "SemiBold";
+	font-size: "16.2px";
+	color: "#7ECB20";
+	background-color: #ffffff;
 }
 
-@media only screen and (max-width:500px){
+#all-li li {
+	margin-left: 30px;
+}
 
- #form{
-   width:70% !important;
- }
-
-
+@media only screen and (max-width: 500px) {
+	#form {
+		width: 70% !important;
+	}
+}
+.navbar-nav {
+	margin-left: auto;
 }
