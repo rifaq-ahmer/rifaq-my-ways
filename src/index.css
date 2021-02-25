@@ -1,0 +1,12 @@
+#all-li li{
+  margin-left: 30px;
+}
+
+@media only screen and (max-width:500px){
+
+ #form{
+   width:70% !important;
+ }
+
+
+}
