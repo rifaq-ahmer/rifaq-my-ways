@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rifaq-my-ways/static/css/main.c2c85df6.chunk.css",
+    "main.js": "/rifaq-my-ways/static/js/main.e28b19ac.chunk.js",
+    "main.js.map": "/rifaq-my-ways/static/js/main.e28b19ac.chunk.js.map",
+    "runtime-main.js": "/rifaq-my-ways/static/js/runtime-main.898ddec4.js",
+    "runtime-main.js.map": "/rifaq-my-ways/static/js/runtime-main.898ddec4.js.map",
+    "static/css/2.150d169a.chunk.css": "/rifaq-my-ways/static/css/2.150d169a.chunk.css",
+    "static/js/2.2641dec0.chunk.js": "/rifaq-my-ways/static/js/2.2641dec0.chunk.js",
+    "static/js/2.2641dec0.chunk.js.map": "/rifaq-my-ways/static/js/2.2641dec0.chunk.js.map",
+    "index.html": "/rifaq-my-ways/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/rifaq-my-ways/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.c2c85df6.chunk.css.map": "/rifaq-my-ways/static/css/main.c2c85df6.chunk.css.map",
+    "static/js/2.2641dec0.chunk.js.LICENSE.txt": "/rifaq-my-ways/static/js/2.2641dec0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.898ddec4.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.2641dec0.chunk.js",
+    "static/css/main.c2c85df6.chunk.css",
+    "static/js/main.e28b19ac.chunk.js"
+  ]
+}
